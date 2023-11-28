@@ -13,11 +13,12 @@ Password : 110011
 # Contoh PHPMyAdmin
 -Structure
 
-![image](https://github.com/SekarwangiLarasati/SistemInformasiAkuntansi-Pos-Kasir-PHP/assets/78289802/068cc685-055f-49e4-bb2f-1d6355ca83b9)
+![image](https://github.com/SekarwangiLarasati/SistemInformasiAkuntansi-Pos-Kasir-PHP/assets/78289802/45f1883c-2850-42c3-beb1-e26bfcfb8ce9)
+
 
 -Designer
 
-![image](https://github.com/SekarwangiLarasati/SistemInformasiAkuntansi-Pos-Kasir-PHP/assets/78289802/1fbf3227-3552-4e6e-b964-7e1aa72def89)
+![image](https://github.com/SekarwangiLarasati/SistemInformasiAkuntansi-Pos-Kasir-PHP/assets/78289802/2cde5f45-05de-435d-abad-3c32e734a26c)
 
 
 # Contoh Program V2
