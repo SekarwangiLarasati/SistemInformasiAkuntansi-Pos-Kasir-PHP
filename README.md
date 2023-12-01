@@ -1,6 +1,16 @@
 # SistemInformasiAkuntansi-Pos-Kasir-PHP
 Source Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP &amp; MYSQL.
 
+#DONASI                       : https://saweria.co/fauzan1892
+
+#SOURCE BLOG                  : https://www.codekop.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html
+
+#BELI VERSI TERBARU           : https://www.codekop.com/products/source-code-aplikasi-pos-penjualan-barang-kasir-dengan-php-mysql-3.html
+
+#BELI APLIKASI POS CAFE RESTO : https://www.codekop.com/products/source-code-aplikasi-pos-kasir-cafe-resto-berbasis-website-4.html
+
+### * Untuk Reuploader Source Code tolong cantumin sumber juga ya, terima kasih
+
 # Setting Koneksi PHP
 setting koneksi di config.php dan ganti username, password dan dbname nya
 
