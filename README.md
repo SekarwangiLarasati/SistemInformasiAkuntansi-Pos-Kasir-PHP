@@ -28,21 +28,6 @@ Username : iniakusekar
 Password : 110011
 * Penggunaan Login untuk single User
 
-# Contoh PHPMyAdmin
--Structure
-
-![image](https://github.com/SekarwangiLarasati/SistemInformasiAkuntansi-Pos-Kasir-PHP/assets/78289802/45f1883c-2850-42c3-beb1-e26bfcfb8ce9)
-
-
--Designer
-
-![image](https://github.com/SekarwangiLarasati/SistemInformasiAkuntansi-Pos-Kasir-PHP/assets/78289802/2cde5f45-05de-435d-abad-3c32e734a26c)
-
-# Flowchart
-
-![flowchart sekar drawio (1)](https://github.com/SekarwangiLarasati/SistemInformasiAkuntansi-Pos-Kasir-PHP/assets/78289802/15d6379f-4783-4eb9-b5ad-86b5b6da3c38)
-
-
 # Contoh Program V2
 -Login
 
@@ -84,3 +69,16 @@ Password : 110011
 
 ![image](https://github.com/SekarwangiLarasati/SistemInformasiAkuntansi-Pos-Kasir-PHP/assets/78289802/48c3db4c-1ed9-405a-9caa-e03a9eb2846f)
 
+# Contoh PHPMyAdmin
+-Structure
+
+![image](https://github.com/SekarwangiLarasati/SistemInformasiAkuntansi-Pos-Kasir-PHP/assets/78289802/45f1883c-2850-42c3-beb1-e26bfcfb8ce9)
+
+
+-Designer
+
+![image](https://github.com/SekarwangiLarasati/SistemInformasiAkuntansi-Pos-Kasir-PHP/assets/78289802/2cde5f45-05de-435d-abad-3c32e734a26c)
+
+# Flowchart
+
+![flowchart sekar drawio (1)](https://github.com/SekarwangiLarasati/SistemInformasiAkuntansi-Pos-Kasir-PHP/assets/78289802/15d6379f-4783-4eb9-b5ad-86b5b6da3c38)
