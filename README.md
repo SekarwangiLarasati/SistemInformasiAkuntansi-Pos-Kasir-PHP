@@ -1,7 +1,15 @@
 # SistemInformasiAkuntansi-Pos-Kasir-PHP
 Source Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP &amp; MYSQL.
 
-#DONASI                       : https://saweria.co/fauzan1892
+# Tugas Sistem Informasi Akuntansi
+Nama : Sekarwangi Larasati 
+
+Nim  : 12030122140205
+
+#Web Pos Kasir clone dari (https://github.com/fauzan1892)
+
+
+# DONASI                       : https://saweria.co/fauzan1892
 
 #SOURCE BLOG                  : https://www.codekop.com/read/source-code-aplikasi-penjualan-barang-kasir-dengan-php-amp-mysql-gratis.html
 
@@ -29,6 +37,10 @@ Password : 110011
 -Designer
 
 ![image](https://github.com/SekarwangiLarasati/SistemInformasiAkuntansi-Pos-Kasir-PHP/assets/78289802/2cde5f45-05de-435d-abad-3c32e734a26c)
+
+# Flowchart
+
+![flowchart sekar drawio (1)](https://github.com/SekarwangiLarasati/SistemInformasiAkuntansi-Pos-Kasir-PHP/assets/78289802/15d6379f-4783-4eb9-b5ad-86b5b6da3c38)
 
 
 # Contoh Program V2
